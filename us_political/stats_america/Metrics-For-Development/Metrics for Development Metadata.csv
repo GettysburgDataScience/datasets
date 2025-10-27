@@ -1,0 +1,72 @@
+Dataset: Metrics for Development,,,
+Source: StatsAmerica (https://www.statsamerica.org/),,,
+Prepared by Indiana Business Research Center (https://ibrc.kelley.iu.edu/),,,
+,,,
+Index,Variable,Inverse?,Source
+Food Access,Percent of population that has low access to grocery stores,Y,"USDA Food Environment Atlas, 2017"
+,Percent of population that is low income and has low access to grocery stores,Y,
+,Grocery stores per capita,N,
+,Farmers' markets per capita,N,
+,SNAP benefits per capita,N,
+School Funding,Interest on debt per pupil,Y,"U.S. Census Bureau Annual Survey of School System Finances, 2016"
+,Long-term debt outstanding per pupil,Y,
+,Percent of revenue from federal sources,Y,
+,Percent of total expenditures for current spending,N,
+,Percent of current spending for instruction,N,
+,Capital outlays per pupil,N,
+,Percent of current spending spent on support services,N,
+Commuting to Work,Percent of working population that carpooled to work,N,"U.S. Census Bureau American Community Survey (ACS) five-year estimates, 2016"
+,Percent of working population that took public transit to work (excludes taxicabs),N,
+,Percent of working population that walked to work,N,
+,Percent of working population that drove to work alone,Y,
+Health,Percent of population aged 18-64 that is insured,N,"ACS five-year estimates, 2016"
+,Percent of adults that have diabetes,Y,"USDA Food Environment Atlas, 2017"
+,Percent of adults that are obese,Y,
+,Poor physical health days per month,Y,"County Health Rankings, 2018"
+,Poor mental health days per month,Y,
+,Years of potential life lost to premature death (age-adjusted),Y,
+,Suicide rate,Y,"Calculated from CDC Wonder Database, 2016"
+Industry Mix,Share of employment in top five traded industries,N,Calculated from BLS Quarterly Census of
+,Share of employment in top two local industries,Y,"Employment and Wages (QCEW), 2016;"
+,Ratio of employment in local industries to traded industries,Y,local and traded industry definitions from Porter1 
+,Share of employment in top three industries,Y,
+,Share of employment in all local industries,Y,
+Creative Class Occupations and Creative Industries,"Share of employment in creative class occupations, 2007-11 average",N,"USDA Economic Research Service (ERS),"
+,"Share of employment in arts occupations, 2007-11 average",N,"2011, from Florida?s definitions of the creative class2 "
+,Share of employment in the business services and support industry supercluster (SC),N,"IBRC industry superclusters, 2016"
+,Share of employment in the tech and knowledge services industry SC,N,
+,Share of employment in the high intellectual property manufacturing industry SC,N,
+,Share of employment in the business and other white-collar occupation SC,N,"IBRC occupation superclusters from BLS QCEW, 2016"
+,"Share of employment in the manufacturing, technology and engineering occupation SC",N,
+,Share of employment in the college occupation SC,N,
+,Share of employment in the arts and entertainment occupation SC,N,
+Natural Amenities,Standardized score of January mean temperature,N,"USDA ERS Natural Amenities Scale, 1999"
+,Standardized score of January mean sunlight,N,
+,Standardized score of July mean temperature,N,
+,Standardized score of July mean humidity,N,
+,Standardized score of topographical features,N,
+Charitable Giving and Civil Society,Itemized contributions as share of total adjusted gross income,N,"IRS Statistics of Income, 2016"
+,Intensity of volunteerism,N,"NBER from Census CPS, 2013-15"
+,"Non-rent-seeking organizations per 10,000 population",N,IBRC from Penn State?s
+,,,Northeast Regional Center for Rural Development
+,,,"county-level measures of social capital,3 2014"
+Full-Time Work,Percent of working-age population that works 48-52 weeks per year,N,"ACS five-year estimates, 2016"
+,Percent of working-age population that works full-time (35+ hours/week) year-round,N,
+,Percent of population that didn't work over the past year,Y,
+,Percent of population that works part-time (less than 35 hours a week),Y,
+Crime,"Violent crime events per 1,000 population",Y,"FBI Uniform Crime Reporting Data Series, 2014"
+,"Property crime events per 1,000 population",Y,
+"Jobs, Earnings and Productivity","Employment growth, 2001-2016",N,"IBRC from U.S. Bureau of Economic Analysis, 2016"
+,"Average earnings per worker growth, 2001-2016",N,
+,"GDP per worker growth, 2001-2016",N,
+,"Per capita income growth, 2001-2016",N,
+,Poverty rate,Y,"ACS five-year estimates, 2016"
+Literacy and Education,Percent of population 16 and older not lacking basic prose skills,N,"Calculated from NCES National Assessment of Adult Literacy, 2003"
+,Percent of population 25 and older that have completed more than 8th grade,N,"ACS five-year estimates, 2016"
+,Percent of population 25 and older with a high school diploma or equivalent,N,
+,Percent of population 25 and older with at least a bachelor's degree,N,
+Population Dynamics,"Population growth, 2010-2016",N,"ACS five-year estimates, 2016"
+,Population density,N,
+,Net migration rate,N,
+,,,
+,,,
